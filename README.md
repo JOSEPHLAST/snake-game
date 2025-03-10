@@ -16,7 +16,7 @@ This is a classic Snake game built using Python and the turtle library. The obje
 ## INSTALLATION
 ### To run the Snake game, follow these steps:   
 #### 1️⃣ Clone the repository:   
-git clone    https://github.com/yourusername/snake-game.git   
+git clone    https://github.com/JOSEPHLAST/snake-game.git   
 cd snake-game   
 #### 2️⃣ Install dependencies:   
 pip install turtle   
